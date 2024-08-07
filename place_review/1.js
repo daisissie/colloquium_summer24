@@ -31,3 +31,5 @@ const place = new Place({
     content: contentString,
     ariaLabel: place.displayName,
   });
+
+  console
